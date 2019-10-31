@@ -11,11 +11,11 @@
 </ul>
 <h4>Examples</h4>
 <h5>one-row</h5>
-<img src="images/sc_01" width="250" height="150">
+<img src="images/sc_01.png" width="250" height="150">
 <h5>two-rows</h5>
-<img src="images/sc_02" width="250" height="150">
+<img src="images/sc_02.png" width="250" height="150">
 <h5>two-rows-round</h5>
-<img src="images/sc_03" width="250" height="150">
+<img src="images/sc_03.png" width="250" height="150">
 
 <h3>This template its AMP Valid, your test the code at <a href="https://search.google.com/test/amp">amp test</a></h3>
 <p>Responsive for mobile and tabs</p>
